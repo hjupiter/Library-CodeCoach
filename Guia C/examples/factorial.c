@@ -2,6 +2,7 @@
  
 int main()
 {
+  int l;
   int c, n, fact = 1;
  
   printf("Enter a number to calculate it's factorial\n");
